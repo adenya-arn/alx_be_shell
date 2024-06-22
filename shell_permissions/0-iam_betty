@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty alx_be_shell
+su betty
